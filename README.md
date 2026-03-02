@@ -29,14 +29,22 @@ A **modern, animated, and fully functional chat app** built with **Flutter** and
 
 ## 🎨 Screenshots
 
-![Home Screen](./assets/screenshots/home_screen.png)
-*Brain assemble animation on app load*
-
-![Login Screen](assets/screenshots/login_screen.png)
-*Email & password login with sleek UI*
-
-![Chat Screen](assets/screenshots/chat_screen.png)
-*Real-time messaging experience*
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/home_screen.png" alt="Home Screen" width="300"/><br>
+      Home Screen
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/login_screen.png" alt="Login Screen" width="300"/><br>
+      Login Screen
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/chat_screen.png" alt="Chat Screen" width="300"/><br>
+      Chat Screen
+    </td>
+  </tr>
+</table>
 
 ---
 

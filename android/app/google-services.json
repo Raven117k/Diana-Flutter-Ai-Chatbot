@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289803300653",
+    "project_id": "diana-d94cb",
+    "storage_bucket": "diana-d94cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289803300653:android:f8e8545ec9ed7843a66da4",
+        "android_client_info": {
+          "package_name": "com.raven.diana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBlPmiDlM-yTQ6J-bWZJQk6Q3HcBjjrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
